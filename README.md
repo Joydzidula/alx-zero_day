@@ -1,2 +1,3 @@
-My first readme
-So far so good 
+1. My first readme
+
+2. So far so good 
